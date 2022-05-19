@@ -5,14 +5,19 @@
         "venue": "Cape town",
         "date": "18 May 2022",
         "availability":"Sold out",
-        "seats":0
+        "seats":0,
+        "workshop":"Sharenet Analytics Trading Workshop",
+        "description":"This workshop teaches you to trade and invest like a professional by giving you advanced and practical training on how to use economic data, charting and simple stock picking rules to map out your trading strategy, regardless of whether your investing style is long term or short term."
+        
       },
       {
         "id": 2,
         "venue": "Durban",
         "date": "19 May 2022",
         "availability":"Sold out",
-        "seats":0
+        "seats":0,
+        "workshop":"Technical Analysis",
+        "description":"This introduction course gives you a thorough grounding in the art and science of Technical Analysis (TA). You'll gain a good understanding about the differences between fundamentals and TA techniques and learn how to see and use important patterns and indicators."
 
       
       },
@@ -21,14 +26,19 @@
         "venue": "Elizabeth",
         "date": "20 May 2022",
         "availability":"Sold out",
-        "seats":0
+        "seats":0,
+        "workshop":"Forex Trading - The Successful Way",
+        "description":"This forex workshop has been designed to teach you the theory and techniques of using cycle and technical analysis to trade forex successfully. Your presenter, Joz Britz, has been trading forex for years and will be sharing with you the rules and techniques he personally uses."
+
       },
       {
         "id": 4,
         "venue": "Joburg",
         "date": "21 May 2022",
         "availability":"Available",
-        "seats":32
+        "seats":32,
+        "workshop":"Sharenet Analytics Trading Workshop",
+        "description":"This workshop teaches you to trade and invest like a professional by giving you advanced and practical training on how to use economic data, charting and simple stock picking rules to map out your trading strategy, regardless of whether your investing style is long term or short term."
 
       },
       {
@@ -36,7 +46,9 @@
         "venue": "Pretoria",
         "date": "22 May 2022",
         "availability":"Available",
-        "seats":12
+        "seats":12,
+        "workshop":"Forex Trading - The Successful Way",
+        "description":"This forex workshop has been designed to teach you the theory and techniques of using cycle and technical analysis to trade forex successfully. Your presenter, Joz Britz, has been trading forex for years and will be sharing with you the rules and techniques he personally uses."
       }
       ,
       {
@@ -44,28 +56,37 @@
         "venue": "Joburg",
         "date": "21 May 2022",
         "availability":"Available",
-        "seats":23
+        "seats":23,
+        "workshop":"Technical Analysis",
+        "description":"This introduction course gives you a thorough grounding in the art and science of Technical Analysis (TA). You'll gain a good understanding about the differences between fundamentals and TA techniques and learn how to see and use important patterns and indicators."
       },
       {
         "id": 5,
         "venue": "Pretoria",
         "date": "22 May 2022",
         "availability":"Sold out",
-        "seats":0
+        "seats":0,
+        "workshop":"Technical Analysis",
+        "description":"This introduction course gives you a thorough grounding in the art and science of Technical Analysis (TA). You'll gain a good understanding about the differences between fundamentals and TA techniques and learn how to see and use important patterns and indicators."
+
       },
       {
         "id": 4,
         "venue": "Joburg",
         "date": "21 May 2022",
         "availability":"Available",
-        "seats":3
+        "seats":3,
+        "workshop":"Forex Trading - The Successful Way",
+        "description":"This forex workshop has been designed to teach you the theory and techniques of using cycle and technical analysis to trade forex successfully. Your presenter, Joz Britz, has been trading forex for years and will be sharing with you the rules and techniques he personally uses."
       },
       {
         "id": 5,
         "venue": "Pretoria",
         "date": "22 May 2022",
         "availability":"Sold out",
-        "seats":0
+        "seats":0,
+        "workshop":"Technical Analysis",
+        "description":"This introduction course gives you a thorough grounding in the art and science of Technical Analysis (TA). You'll gain a good understanding about the differences between fundamentals and TA techniques and learn how to see and use important patterns and indicators."
       }
     ]
   }
