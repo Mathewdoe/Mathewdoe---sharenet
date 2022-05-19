@@ -1,0 +1,71 @@
+{
+    "info": [
+      {
+        "id": 1,
+        "venue": "Cape town",
+        "date": "18 May 2022",
+        "availability":"Sold out",
+        "seats":0
+      },
+      {
+        "id": 2,
+        "venue": "Durban",
+        "date": "19 May 2022",
+        "availability":"Sold out",
+        "seats":0
+
+      
+      },
+      {
+        "id": 3,
+        "venue": "Elizabeth",
+        "date": "20 May 2022",
+        "availability":"Sold out",
+        "seats":0
+      },
+      {
+        "id": 4,
+        "venue": "Joburg",
+        "date": "21 May 2022",
+        "availability":"Available",
+        "seats":32
+
+      },
+      {
+        "id": 5,
+        "venue": "Pretoria",
+        "date": "22 May 2022",
+        "availability":"Available",
+        "seats":12
+      }
+      ,
+      {
+        "id": 4,
+        "venue": "Joburg",
+        "date": "21 May 2022",
+        "availability":"Available",
+        "seats":23
+      },
+      {
+        "id": 5,
+        "venue": "Pretoria",
+        "date": "22 May 2022",
+        "availability":"Sold out",
+        "seats":0
+      },
+      {
+        "id": 4,
+        "venue": "Joburg",
+        "date": "21 May 2022",
+        "availability":"Available",
+        "seats":3
+      },
+      {
+        "id": 5,
+        "venue": "Pretoria",
+        "date": "22 May 2022",
+        "availability":"Sold out",
+        "seats":0
+      }
+    ]
+  }
